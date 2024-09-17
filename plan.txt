@@ -1,0 +1,7 @@
+[] Create NPM project // npm init -y
+[] Create index,css,js files
+[] Install dependencies,express, nodemon
+[] Create a express server[server.js]
+[] Do frontend part
+[] Install socket.io, setup socket.io in server.js and client.js
+[] Client send message logic in client.js
