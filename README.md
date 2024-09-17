@@ -1,0 +1,1 @@
+This application is about a proper chat application where real time messages are sent by senders and received by receivers and the whole thing takes place without refreshing the site. No ajax is used here.
